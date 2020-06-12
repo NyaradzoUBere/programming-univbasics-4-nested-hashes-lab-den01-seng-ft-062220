@@ -37,10 +37,11 @@ def alan_kay_is_known_for
       }
     }
 
-end
-
 known_for = programmer_hash[grace_hopper][:known_for]
 puts known_for
+end
+
+
 
 def dennis_ritchies_language
 	programmer_hash = 
